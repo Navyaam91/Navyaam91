@@ -3,7 +3,7 @@
 <h3 align="center">
 I’m a PHP Developer <b>with 5+ years of professional experience</b> building scalable web applications and business systems using <b>CodeIgniter 4</b> and <b>Laravel</b>. I’ve worked extensively on CRM platforms, API integrations, payment gateways, and ERP systems, delivering real-world solutions for production environments. 
 
-Currently, I’m focused on <b>transitioning into Python development</b>, with strong hands-on experience in <b>Django</b> for building RESTful APIs and full-stack applications. I enjoy learning new technologies, writing clean and maintainable code, and working on systems that solve real business problems.  
+Currently, I’m focused on <b>transitioning into Python development</b>, with strong hands-on experience in <b>Django</b>  full-stack applications. I enjoy learning new technologies, writing clean and maintainable code, and working on systems that solve real business problems.  
 
 🎯 My goal is to move into a <b>Python / Django Backend Developer role</b>, where I can combine my solid PHP foundation with modern Python-based backend development.  
 
